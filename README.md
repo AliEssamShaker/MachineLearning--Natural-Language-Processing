@@ -18,6 +18,8 @@ Following that, I start cleaning the data by iterating through the data set and 
 
 After the cleaning phase, I created the Bag of Words, split the dataset into a training set and a test set, trained the classification models on the training set, predicted the test set results, and lastly made the confusion matrix.
 
+As we can see, out of all the classification models the SVM is the out that had the best predictions, resulting in a 79% accuracy.
+
 
 
 
